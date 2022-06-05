@@ -1,0 +1,9 @@
+git clone + link: Clona o repositório localmente na máquina.
+
+git status: visualisa a situação atual da pasta.
+
+git add . : adiciona todos os arquivos
+
+git commit -m "alguma menssagem" : cria o commit para os devidos arquivos.
+
+git push origin main: envia os arquivos locais para o servidor do GitHub.
